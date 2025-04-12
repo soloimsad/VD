@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1744495921.58971 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" "build/tarea1.pdf" "tarea1" 1744495922.71419 0
+["pdflatex"] 1744496471.94547 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" "build/tarea1.pdf" "tarea1" 1744496473.08186 0
   "C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744495884 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/javie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744495863 12036089 b574607adfc369167d76fffc37edb270 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -35,11 +35,11 @@
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1730544106 2671 70891d50dac933918b827d326687c6e8 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1730544106 4023 2c9f39712cf7b43d3eb93a8bbd5c8f67 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "build/tarea1.aux" 1744495922 556 7c1a1ffdfd647984b8360f84f2d9388c "pdflatex"
-  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" 1744495920 2094 41a415703df1b2641c936e11ca70be8b ""
+  "build/tarea1.aux" 1744496472 556 7c1a1ffdfd647984b8360f84f2d9388c "pdflatex"
+  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" 1744496469 1901 0c242c2894ea6d7bac769469c10b2b0a ""
   "images/graph1_JG.png" 1744494403 283718 4f925ca25d168715ad9196f322291c31 ""
   "images/graph2_JG.png" 1744494526 325357 6533a38ecba71397cea820e382436384 ""
-  "tarea1.tex" 1744495920 2094 d278a7c46bc2f1f0ec8611a03dc9b5b4 ""
+  "tarea1.tex" 1744496469 1901 0c242c2894ea6d7bac769469c10b2b0a ""
   (generated)
   "build/tarea1.aux"
   "build/tarea1.log"

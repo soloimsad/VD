@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  12 APR 2025 18:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  12 APR 2025 18:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -201,7 +201,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <images/graph1_JG.png, id=1, 2007.5pt x 1405.25pt>
 File: images/graph1_JG.png Graphic file (type png)
 <use images/graph1_JG.png>
-Package pdftex.def Info: images/graph1_JG.png  used on input line 38.
+Package pdftex.def Info: images/graph1_JG.png  used on input line 40.
 (pdftex.def)             Requested size: 386.96027pt x 270.8599pt.
 
 
@@ -211,7 +211,7 @@ Package pdftex.def Info: images/graph1_JG.png  used on input line 38.
 <images/graph2_JG.png, id=11, 725.95215pt x 646.0938pt>
 File: images/graph2_JG.png Graphic file (type png)
 <use images/graph2_JG.png>
-Package pdftex.def Info: images/graph2_JG.png  used on input line 49.
+Package pdftex.def Info: images/graph2_JG.png  used on input line 51.
 (pdftex.def)             Requested size: 386.96027pt x 344.38994pt.
 
 
@@ -232,15 +232,15 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3777 strings out of 473523
- 64389 string characters out of 5714630
- 473073 words of memory out of 5000000
- 27003 multiletter control sequences out of 15000+600000
+ 3778 strings out of 473523
+ 64397 string characters out of 5714630
+ 473081 words of memory out of 5000000
+ 27004 multiletter control sequences out of 15000+600000
  561567 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,65p,251b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.pdf" (2 pages, 463132 bytes).
+Output written on "c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.pdf" (2 pages, 463475 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
