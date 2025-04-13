@@ -1,0 +1,5 @@
+API_IT.NET.BBND.P2_DS2_en_excel_v2_14959 "Dataset sobre de fibra contratada por la poblacion por cada 100 personas en diferentes paises y años"
+Link -> https://data.worldbank.org/indicator/IT.NET.BBND.P2
+
+API_IT.NET.USER.ZS_DS2_en_excel_v2_26497 "Dataset sobre Personas que utilizan Internet (% de la población) en diferentes paises y años"
+Link ->  https://data.worldbank.org/indicator/IT.NET.USER.ZS?most_recent_value_desc=true&view=chart
