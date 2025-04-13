@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  13 APR 2025 16:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  13 APR 2025 18:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -236,26 +236,26 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `tarea1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
  (C:\Users\javie\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count290
@@ -309,20 +309,20 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 37.
 (c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.out) (c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.out)
 \@outlinefile=\write3
 \openout3 = `tarea1.out'.
 
-<images/logo-usm.png, id=11, 736.9131pt x 338.9463pt>
+<images/logo-usm.png, id=3, 736.9131pt x 338.9463pt>
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 37.
+Package pdftex.def Info: images/logo-usm.png  used on input line 39.
 (pdftex.def)             Requested size: 227.62206pt x 104.69472pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 37.
+(Font)              <14.4> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 37.
+(Font)              <7> on input line 39.
 
 
 [1
@@ -331,26 +331,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 pdfTeX warning: pdflatex (file ./images/logo-usm.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-Overfull \hbox (11.8441pt too wide) in paragraph at lines 75--76
-[]\OT1/cmr/m/n/12 Refleja el im-pac-to de pol^^S^^Pti-cas p^^Subli-cas, al-fa-be-ti-za-ci^^Son di-gi-tal y dis-po-ni-bi-li-dad econ^^Somi-
- []
-
-<images/Grafico_uso_de_internet_FC.png, id=25, 1387.584pt x 733.5405pt>
+<images/Grafico_uso_de_internet_FC.png, id=18, 1387.584pt x 733.5405pt>
 File: images/Grafico_uso_de_internet_FC.png Graphic file (type png)
 <use images/Grafico_uso_de_internet_FC.png>
-Package pdftex.def Info: images/Grafico_uso_de_internet_FC.png  used on input line 81.
+Package pdftex.def Info: images/Grafico_uso_de_internet_FC.png  used on input line 84.
 (pdftex.def)             Requested size: 386.96027pt x 204.56166pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 84.
+(Font)              <12> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 84.
+(Font)              <8> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 84.
+(Font)              <6> on input line 86.
+<images/Grafico_fibra_contratada_FC2.png, id=23, 1927.2pt x 1018.80624pt>
+File: images/Grafico_fibra_contratada_FC2.png Graphic file (type png)
+<use images/Grafico_fibra_contratada_FC2.png>
+Package pdftex.def Info: images/Grafico_fibra_contratada_FC2.png  used on input line 99.
+(pdftex.def)             Requested size: 455.24411pt x 240.66315pt.
 
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 91.
+Package pdftex.def Info: images/logo-usm.png  used on input line 103.
 (pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -360,21 +361,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-26.49326pt}.
 
 [2 <./images/Grafico_uso_de_internet_FC.png>]
-<images/Grafico_fibra_contratada_FC2.png, id=40, 1927.2pt x 1018.80624pt>
-File: images/Grafico_fibra_contratada_FC2.png Graphic file (type png)
-<use images/Grafico_fibra_contratada_FC2.png>
-Package pdftex.def Info: images/Grafico_fibra_contratada_FC2.png  used on input line 100.
-(pdftex.def)             Requested size: 455.24411pt x 240.66315pt.
-<images/graph1_JG.png, id=45, 2007.5pt x 1405.25pt>
-File: images/graph1_JG.png Graphic file (type png)
-<use images/graph1_JG.png>
-Package pdftex.def Info: images/graph1_JG.png  used on input line 122.
-(pdftex.def)             Requested size: 386.96027pt x 270.8599pt.
-
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 125.
+Package pdftex.def Info: images/logo-usm.png  used on input line 112.
 (pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -384,16 +374,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-26.49326pt}.
 
 [3 <./images/Grafico_fibra_contratada_FC2.png>]
-<images/graph2_JG.png, id=54, 725.95215pt x 646.0938pt>
+<images/graph1_JG.png, id=46, 2007.5pt x 1405.25pt>
+File: images/graph1_JG.png Graphic file (type png)
+<use images/graph1_JG.png>
+Package pdftex.def Info: images/graph1_JG.png  used on input line 139.
+(pdftex.def)             Requested size: 386.96027pt x 270.8599pt.
+<images/graph2_JG.png, id=47, 725.95215pt x 646.0938pt>
 File: images/graph2_JG.png Graphic file (type png)
 <use images/graph2_JG.png>
-Package pdftex.def Info: images/graph2_JG.png  used on input line 133.
+Package pdftex.def Info: images/graph2_JG.png  used on input line 149.
 (pdftex.def)             Requested size: 386.96027pt x 344.38994pt.
 
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 136.
+Package pdftex.def Info: images/logo-usm.png  used on input line 152.
 (pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -406,7 +401,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 147.
+Package pdftex.def Info: images/logo-usm.png  used on input line 165.
 (pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -424,20 +419,20 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `tarea1.out' has not changed.
-(rerunfilecheck)             Checksum: 4BFA8D39DE1F02AA72AA251EC52A375E;614.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10967 strings out of 473523
- 176814 string characters out of 5714630
- 594624 words of memory out of 5000000
- 34059 multiletter control sequences out of 15000+600000
+ 10963 strings out of 473523
+ 176773 string characters out of 5714630
+ 594604 words of memory out of 5000000
+ 34054 multiletter control sequences out of 15000+600000
  564174 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,15n,79p,400b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,15n,79p,295b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.pdf" (5 pages, 1216171 bytes).
+Output written on "c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.pdf" (5 pages, 1215234 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 42 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

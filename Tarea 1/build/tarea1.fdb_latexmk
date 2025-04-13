@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1744575377.33404 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" "build/tarea1.pdf" "tarea1" 1744575379.56111 0
+["pdflatex"] 1744582823.9128 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" "build/tarea1.pdf" "tarea1" 1744582826.61123 0
   "C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744574399 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/javie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744495863 12036089 b574607adfc369167d76fffc37edb270 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -71,15 +71,15 @@
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/tarea1.aux" 1744575379 1239 aa1c18e12c2d5383cb8d29f264514e33 "pdflatex"
-  "build/tarea1.out" 1744575379 614 4bfa8d39de1f02aa72aa251ec52a375e "pdflatex"
-  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" 1744575376 6464 6eed3db3073b734a48db8798b56fd06b ""
+  "build/tarea1.aux" 1744582826 926 b2e56385f6c272adbc897ba1581d6890 "pdflatex"
+  "build/tarea1.out" 1744582824 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" 1744582819 6347 c202b02a40f69a1d012e0b12a61e7777 ""
   "images/Grafico_fibra_contratada_FC2.png" 1744573881 347719 5dadac0bf205dcf2d0aeba25739c38cb ""
   "images/Grafico_uso_de_internet_FC.png" 1744573664 187349 fcf1279972bebdbaca4abf0d44363b04 ""
   "images/graph1_JG.png" 1744575200 283718 4f925ca25d168715ad9196f322291c31 ""
   "images/graph2_JG.png" 1744494526 325357 6533a38ecba71397cea820e382436384 ""
   "images/logo-usm.png" 1744497927 349029 d84872a8f5e5ff506f3fe349f8e0cc0a ""
-  "tarea1.tex" 1744575376 6464 6eed3db3073b734a48db8798b56fd06b ""
+  "tarea1.tex" 1744582819 6347 c202b02a40f69a1d012e0b12a61e7777 ""
   (generated)
   "build/tarea1.aux"
   "build/tarea1.log"

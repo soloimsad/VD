@@ -6,13 +6,16 @@
 \usepackage{fancyhdr}
 \usepackage{float}
 \usepackage{titling}
-\usepackage{hyperref} % Para enlaces clicables
-\usepackage{url}     % Para formatear URLs
+\usepackage{hyperref}
+\usepackage{url}
 
+% Márgenes
 \geometry{a4paper, margin=2.5cm}
+
+% Encabezado y pie de página
 \pagestyle{fancy}
 \fancyhf{}
-\rhead{\includegraphics[height=1.2cm]{images/logo-usm.png}} % Logo en encabezado
+\rhead{\includegraphics[height=1.2cm]{images/logo-usm.png}}
 \lhead{Grupo 19\\Visualización de Datos}
 \rfoot{Página \thepage}
 
@@ -26,122 +29,137 @@
 }
 \posttitle{\end{center}}
 
+% Título del informe
 \title{Informe: Tecnología en la Vida Cotidiana}
 \author{Felipe Campaña, Javier Gómez, Matias Elgueta}
-\date{\today\\[2cm]
-}
+\date{\today\\[2cm]}
 
 \begin{document}
-
 \maketitle
 
+% ---------------------------------------------------------------------------------
 \section*{Criterios de Selección}
 \begin{itemize}
     \item Criterio 1: Porcentaje de uso de internet en el mundo
-    \item Criterio 2: Porcentajes de contratacion de fibra en el mundo (top 10)
+    \item Criterio 2: Porcentajes de contratación de fibra en el mundo (Top 10)
     \item Criterio 3: Horas en redes sociales por país
-    \item Criterio 4: Evolución de clientes telecomunicación
+    \item Criterio 4: Evolución de clientes de Telecomunicación
     \item Criterio 5: **
     \item Criterio 6: **
 \end{itemize}
 
-\section*{Análisis Gráfico}
+% ---------------------------------------------------------------------------------
+\section*{Análisis por Integrante}
 
-% --------------------------------------------------------FC--------------------------------------------------
-\subsubsection*{Integrante 1: Felipe Campaña}
-Los criterios seleccionados por este integrante son los siguientes:
+% ===================== FELIPE CAMPAÑA =====================
+\subsection*{Integrante 1: Felipe Campaña}
+
+\subsubsection*{Criterios Seleccionados}
 \begin{itemize}
-    \item Criterio 1: Porcentaje de uso de internet en el mundo.
-    \item Criterio 2: Porcentajes de contratación de fibra en el mundo (top 10).
+    \item Porcentaje de uso de internet en el mundo.
+    \item Porcentajes de contratación de fibra en el mundo (Top 10).
 \end{itemize}
 
-\subsection{Justificación Contratación de Fibra Óptica Fija}
-
-Este indicador representa cuántas personas por cada 100 habitantes tienen acceso a Internet mediante conexiones de alta velocidad y calidad, como la fibra óptica. Se seleccionó por las siguientes razones:
-
-\begin{itemize}
-    \item Permite evaluar el nivel de infraestructura tecnológica instalada en cada país.
-    \item Refleja el grado de modernización digital real, más allá de la simple conexión.
-    \item Está fuertemente asociado a la capacidad de ofrecer servicios avanzados, como streaming, teletrabajo o telecomunicaciones.
-\end{itemize}
-
-\subsection{Justificación Acceso a Internet en la Población}
-
-Este indicador señala el porcentaje de personas que utilizan Internet, sin importar el tipo de conexión. Su elección se justificó por los siguientes motivos:
+\subsubsection*{Justificación: Contratación de Fibra Óptica Fija}
+Este indicador representa cuántas personas por cada 100 habitantes tienen acceso a Internet mediante conexiones de alta velocidad y calidad. 
 
 \begin{itemize}
-    \item Entrega una visión más amplia e inclusiva del uso digital básico en cada país.
-    \item Permite identificar regiones que aún enfrentan barreras de conectividad fundamentales.
-    \item Refleja el impacto de políticas públicas, alfabetización digital y disponibilidad económica de servicios de conectividad.
+    \item Evalúa el nivel de infraestructura tecnológica en cada país.
+    \item Refleja el grado de modernización digital más allá de la simple conectividad.
+    \item Relacionado con la capacidad de ofrecer servicios como streaming, teletrabajo, etc.
 \end{itemize}
 
-\subsection*{Gráfico 1: Uso de internet de las personas en el mundo}
+\subsubsection*{Justificación: Acceso a Internet en la Población}
+Este indicador señala el porcentaje de personas que utilizan Internet, sin importar el tipo de conexión.
+
+\begin{itemize}
+    \item Entrega una visión inclusiva del uso digital básico en cada país.
+    \item Identifica regiones con barreras fundamentales de conectividad.
+    \item Refleja impacto de políticas públicas y accesibilidad económica.
+\end{itemize}
+
+\subsubsection*{Gráfico 1: Uso de internet de las personas en el mundo}
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.85\textwidth]{images/Grafico_uso_de_internet_FC.png}
-    \caption[1]{
-        Fuente: Elaboración propia con datos de \href{https://data.worldbank.org}{World Bank} 
-        (\url{https://data.worldbank.org/indicator/IT.NET.USER.ZS}).}
+    \caption[1]{Fuente: Elaboración propia con datos de \href{https://data.worldbank.org}{World Bank} 
+    (\url{https://data.worldbank.org/indicator/IT.NET.USER.ZS}).}
 \end{figure}
 
-\subsubsection*{Conclusión}
+\textbf{Conclusión:}
 \begin{itemize}
-    \item Muestra un panorama global del acceso digital: Europa, Oceanía y partes de Asia y América alcanzan más del 80\% de cobertura poblacional.
-    \item África central y algunos países del sudeste asiático presentan niveles muy bajos (<40\%), lo que evidencia una brecha digital persistente.
-    \item Países como Sudán, Congo o Yemen están en las zonas más oscuras del mapa, reflejando problemas estructurales en conectividad.
-    \item Este mapa destaca diferencias regionales importantes que no necesariamente se reflejan en el gráfico de fibra óptica.
-    \item Es una excelente forma de visualizar desigualdades sociales y tecnológicas a escala global.
+    \item Europa, Oceanía y partes de Asia y América superan el 80\% de cobertura.
+    \item África central y el sudeste asiático presentan niveles muy bajos (<40\%).
+    \item Se visualizan claramente desigualdades tecnológicas globales.
 \end{itemize}
 
-% Gráfico 2
-\subsection*{Gráfico 2: Top 10 paises con mayor porcentaje de fibra contratada}
+\subsubsection*{Gráfico 2: Top 10 países con mayor porcentaje de fibra contratada}
 \begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{images/Grafico_fibra_contratada_FC2.png}
-    \caption[2]{
-        Fuente: Elaboración propia con datos de \href{https://data.worldbank.org}{World Bank} 
-        (\url{https://data.worldbank.org/indicator/IT.NET.BBND.P2}). 
-    }\end{figure}
+    \caption[2]{Fuente: Elaboración propia con datos de \href{https://data.worldbank.org}{World Bank} 
+    (\url{https://data.worldbank.org/indicator/IT.NET.BBND.P2}).}
+\end{figure}
 
+\textbf{Conclusión:}
+\begin{itemize}
+    \item Países como Mónaco, Andorra y Liechtenstein lideran con más del 50\%.
+    \item La mayoría son países pequeños con economías desarrolladas.
+    \item Muestra diferencias internas incluso entre regiones avanzadas.
+\end{itemize}
 
-    \subsubsection*{Conclusión}
-    \begin{itemize}
-        \item Se observa que países como Mónaco (56\%), Andorra (52\%) y Liechtenstein (50\%) lideran la contratación de fibra en 2023.
-        \item Son en general países pequeños, con economías desarrolladas y buena planificación urbana, lo que facilita la instalación de redes avanzadas.
-        \item Países como China, Corea del Sur o Alemania también presentan cifras altas, pero no alcanzan el nivel de penetración de los primeros.
-        \item El gráfico también muestra países con niveles más bajos, como Malta y Dinamarca (44\%), lo que sugiere diferencias internas incluso en regiones desarrolladas.
-        \item Este tipo de visualización permite un contraste claro de adopción tecnológica y pone en evidencia el avance en infraestructura.
-    \end{itemize}
-    
+% ===================== JAVIER GÓMEZ =====================
+\newpage
+\subsection*{Integrante 2: Javier Gómez}
 
+\subsubsection*{Criterios Seleccionados}
+\begin{itemize}
+    \item Horas diarias en redes sociales por país.
+    \item Contratación de telecomunicaciones.
+\end{itemize}
 
-% --------------------------------------------------------JG--------------------------------------------------
-\subsection*{Gráfico 3: Aquí colocar título}
+\subsubsection*{Justificación: Horas diarias en Redes Sociales}
+Permite segmentar audiencias e identificar poblaciones con alto uso digital, útil para campañas publicitarias o estudios sociales.
+
+\begin{itemize}
+    \item Instituciones educativas pueden actuar frente a exceso de uso en estudiantes.
+    \item Posible vínculo con salud mental o rendimiento académico.
+\end{itemize}
+
+\subsubsection*{Justificación: Contratación de Telecomunicaciones}
+Indica qué compañías dominan el mercado y cómo influye en la competencia o calidad de servicio.
+
+\begin{itemize}
+    \item Revela si los consumidores valoran precio, velocidad o cobertura.
+\end{itemize}
+
+\subsubsection*{Gráfico 3: Horas diarias en redes sociales por país}
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.85\textwidth]{images/graph1_JG.png}
     \caption{Fuente: Elaboración propia con datos de [Nombre de Fuente]}
 \end{figure}
 
-\subsubsection*{Conclusión}
+\textbf{Conclusión:}  
 Texto de conclusión específico para este gráfico. Analizar tendencias observadas y su relación con el impacto tecnológico en la vida cotidiana.
 
-% Gráfico 3
-\subsection*{Gráfico 4: Aquí colocar título}
+\subsubsection*{Gráfico 4: Contratación de telecomunicaciones}
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.85\textwidth]{images/graph2_JG.png}
     \caption{Fuente: Elaboración propia con datos de [Nombre de Fuente]}
 \end{figure}
 
-\subsubsection*{Conclusión}
+\textbf{Conclusión:}  
 Texto de conclusión específico para este gráfico. Analizar tendencias observadas y su relación con el impacto tecnológico en la vida cotidiana.
 
+% ===================== MATÍAS ELGUETA (opcional) =====================
+% Aquí puedes incluir una subsección para Matías Elgueta si va a desarrollar criterios o gráficos
 
+% ---------------------------------------------------------------------------------
 \section*{Conclusiones Generales}
 \begin{itemize}
     \item Opcional**
-  
 \end{itemize}
 
 \end{document}
