@@ -5,17 +5,29 @@
 \usepackage{geometry}
 \usepackage{fancyhdr}
 \usepackage{float}
+\usepackage{titling}
 
 \geometry{a4paper, margin=2.5cm}
 \pagestyle{fancy}
 \fancyhf{}
-\rhead{Visualización de Datos}
-\lhead{Grupo 19}
+\rhead{\includegraphics[height=1.2cm]{images/logo-usm.png}} % Logo en encabezado
+\lhead{Grupo 19\\Visualización de Datos}
 \rfoot{Página \thepage}
+
+% Configuración del logo en portada
+\pretitle{
+  \begin{center}
+  \vspace{1cm}
+  \includegraphics[width=0.5\textwidth]{images/logo-usm.png}\\
+  \vspace{1.5cm}
+  \LARGE
+}
+\posttitle{\end{center}}
 
 \title{Informe: Tecnología en la Vida Cotidiana}
 \author{Felipe Campaña, Javier Gómez, Matias Elgueta}
-\date{\today}
+\date{\today\\[2cm]
+}
 
 \begin{document}
 

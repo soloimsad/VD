@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  12 APR 2025 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  12 APR 2025 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -113,6 +113,11 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box52
 \@float@everytoks=\toks24
 \@floatcapt=\box53
+) (C:\Users\javie\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip65
+\thanksmargin=\skip66
+\droptitle=\skip67
 ) (C:\Users\javie\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count277
@@ -125,22 +130,22 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `tarea1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
  (C:\Users\javie\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count278
@@ -194,35 +199,60 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<images/logo-usm.png, id=1, 736.9131pt x 338.9463pt>
+File: images/logo-usm.png Graphic file (type png)
+<use images/logo-usm.png>
+Package pdftex.def Info: images/logo-usm.png  used on input line 34.
+(pdftex.def)             Requested size: 227.62206pt x 104.69472pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 22.
+(Font)              <14.4> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 22.
-<images/graph1_JG.png, id=1, 2007.5pt x 1405.25pt>
+(Font)              <7> on input line 34.
+<images/graph1_JG.png, id=3, 2007.5pt x 1405.25pt>
 File: images/graph1_JG.png Graphic file (type png)
 <use images/graph1_JG.png>
-Package pdftex.def Info: images/graph1_JG.png  used on input line 40.
+Package pdftex.def Info: images/graph1_JG.png  used on input line 52.
 (pdftex.def)             Requested size: 386.96027pt x 270.8599pt.
 
 
 [1
 
-{C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/graph1_JG.png>]
-<images/graph2_JG.png, id=11, 725.95215pt x 646.0938pt>
+{C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo-usm.png
+
+pdfTeX warning: pdflatex (file ./images/logo-usm.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+>]
+<images/graph2_JG.png, id=12, 725.95215pt x 646.0938pt>
 File: images/graph2_JG.png Graphic file (type png)
 <use images/graph2_JG.png>
-Package pdftex.def Info: images/graph2_JG.png  used on input line 51.
+Package pdftex.def Info: images/graph2_JG.png  used on input line 63.
 (pdftex.def)             Requested size: 386.96027pt x 344.38994pt.
 
 
+File: images/logo-usm.png Graphic file (type png)
+<use images/logo-usm.png>
+Package pdftex.def Info: images/logo-usm.png  used on input line 66.
+(pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                Make it at least 38.49326pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.49326pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+(fancyhdr)                \addtolength{\topmargin}{-26.49326pt}.
 
-[2 <./images/graph2_JG.png>] (c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.aux
+[2 <./images/graph1_JG.png>]
+
+File: images/logo-usm.png Graphic file (type png)
+<use images/logo-usm.png>
+Package pdftex.def Info: images/logo-usm.png  used on input line 78.
+(pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 38.49326pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.49326pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-26.49326pt}.
+
+[3 <./images/graph2_JG.png>] (c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -232,17 +262,17 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3778 strings out of 473523
- 64397 string characters out of 5714630
- 473081 words of memory out of 5000000
- 27004 multiletter control sequences out of 15000+600000
+ 3860 strings out of 473523
+ 65865 string characters out of 5714630
+ 474012 words of memory out of 5000000
+ 27082 multiletter control sequences out of 15000+600000
  561567 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,12n,65p,251b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,15n,65p,251b,402s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.pdf" (2 pages, 463475 bytes).
+Output written on "c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 1\build\tarea1.pdf" (3 pages, 607334 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
