@@ -6,6 +6,8 @@
 \usepackage{fancyhdr}
 \usepackage{float}
 \usepackage{titling}
+\usepackage{hyperref} % Para enlaces clicables
+\usepackage{url}     % Para formatear URLs
 
 \geometry{a4paper, margin=2.5cm}
 \pagestyle{fancy}
@@ -80,7 +82,9 @@ Este indicador señala el porcentaje de personas que utilizan Internet, sin impo
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.85\textwidth]{images/Grafico_uso_de_internet_FC.png}
-    \caption{Fuente: Elaboración propia con datos de [Worldbank], Link: [https://data.worldbank.org/indicator/IT.NET.USER.ZS?most_recent_value_desc=true&view=chart]}
+    \caption[1]{
+        Fuente: Elaboración propia con datos de \href{https://data.worldbank.org}{World Bank} 
+        (\url{https://data.worldbank.org/indicator/IT.NET.USER.ZS}).}
 \end{figure}
 
 \subsubsection*{Conclusión}
@@ -96,9 +100,11 @@ Este indicador señala el porcentaje de personas que utilizan Internet, sin impo
 \subsection*{Gráfico 2: Top 10 paises con mayor porcentaje de fibra contratada}
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.85\textwidth]{images/Grafico_fibra_contratada_FC.webp}
-    \caption{Fuente: Elaboración propia con datos de [Worldbank], Link: [https://data.worldbank.org/indicator/IT.NET.BBND.P2]}
-\end{figure}
+    \includegraphics[width=0.85\textwidth]{images/Grafico_fibra_contratada_FC2.png}
+    \caption[2]{
+        Fuente: Elaboración propia con datos de \href{https://data.worldbank.org}{World Bank} 
+        (\url{https://data.worldbank.org/indicator/IT.NET.BBND.P2}). % Opción con enlace visible
+    }\end{figure}
 
 \subsubsection*{Conclusión}
 \begin{itemize}
