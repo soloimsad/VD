@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1744587675.97918 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" "build/tarea1.pdf" "tarea1" 1744587678.19318 0
+["pdflatex"] 1744651648.81866 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" "build/tarea1.pdf" "tarea1" 1744651651.60685 0
   "C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744587230 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/javie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744495863 12036089 b574607adfc369167d76fffc37edb270 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -74,15 +74,18 @@
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/tarea1.aux" 1744587678 1399 0e16cb7fc20481bf12e56c32287b55c9 "pdflatex"
-  "build/tarea1.out" 1744587676 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" 1744587675 9171 170f6ea2409ae701b80ca2bdbf86b897 ""
+  "build/tarea1.aux" 1744651651 2431 fe4afaa50a8b3c70dab14088970cbbbd "pdflatex"
+  "build/tarea1.out" 1744651649 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 1/tarea1.tex" 1744651646 14345 d96b988c59a12ce91e111d4c2d8ce448 ""
   "images/Grafico_fibra_contratada_FC2.png" 1744573881 347719 5dadac0bf205dcf2d0aeba25739c38cb ""
   "images/Grafico_uso_de_internet_FC.png" 1744573664 187349 fcf1279972bebdbaca4abf0d44363b04 ""
+  "images/contrastar.png" 1744649761 116597 f255ce90dfb312ae5da5fc25e1b26296 ""
   "images/graph1_JG.png" 1744575200 283718 4f925ca25d168715ad9196f322291c31 ""
   "images/graph2_JG.png" 1744494526 325357 6533a38ecba71397cea820e382436384 ""
+  "images/joyplot_penetracion5g.png" 1744583081 209126 099b61045686a0a80af3788bc66e522f ""
   "images/logo-usm.png" 1744497927 349029 d84872a8f5e5ff506f3fe349f8e0cc0a ""
-  "tarea1.tex" 1744587675 9171 170f6ea2409ae701b80ca2bdbf86b897 ""
+  "images/violin_preocupacion.png" 1744583081 40374 4fbbb9ac88e5bdf4bdc211c10bf463ce ""
+  "tarea1.tex" 1744651646 14345 d96b988c59a12ce91e111d4c2d8ce448 ""
   (generated)
   "build/tarea1.aux"
   "build/tarea1.log"
