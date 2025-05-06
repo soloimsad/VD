@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1746495620.41264 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 2/tarea2.tex" "build/tarea2.pdf" "tarea2" 1746495622.82907 0
+["pdflatex"] 1746495705.79272 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 2/tarea2.tex" "build/tarea2.pdf" "tarea2" 1746495708.22546 0
   "C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744587230 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/javie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744495863 12036089 b574607adfc369167d76fffc37edb270 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -73,16 +73,18 @@
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "Graficos/1.png" 1746492934 277434 41e1016010280029c3f86f3eb3a9f673 ""
   "Graficos/2.png" 1746492933 161159 07a09932c405681117e1344b40bb521a ""
+  "Graficos/PreocupacionLaboral.jpg" 1746495646 159298 4f0a32bfca98cbb80a6a677332218eeb ""
   "Graficos/Radar_frec_ia_FC.png" 1746492627 38264 568fd4a42bdfbf1c70d5b18f24f75ca4 ""
   "Graficos/Treemap_Uso_IA_FC.png" 1746492627 20159 4693e3c6ec543b659e34347e1de3d57c ""
+  "Graficos/UsoPrincipalVSPreocupacionLaboral.jpg" 1746495646 245045 758b7363dc6a95e203dfcc1f5311683c ""
   "Graficos/beeswarn.png" 1746492683 33334 648a4b621dd87d309247ea8e8bd69ed5 ""
   "Graficos/excel.png" 1746492627 156276 9ed9ea0858fac0144ba553f3d6674957 ""
   "Graficos/spin plot.png" 1746492681 29021 84a6dd2d378712b5f681ce3287a268ae ""
-  "build/tarea2.aux" 1746495622 1790 3b875c8864a43eb64330b723bd71d561 "pdflatex"
-  "build/tarea2.out" 1746495622 202 dbbdfadc9615bcbd8b08ff50099488c8 "pdflatex"
-  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 2/tarea2.tex" 1746495619 12646 8930e9447299022e0f552221c15634df ""
+  "build/tarea2.aux" 1746495708 1792 97f5e57a45c8c6438f24a8f2e9c785e7 "pdflatex"
+  "build/tarea2.out" 1746495708 202 dbbdfadc9615bcbd8b08ff50099488c8 "pdflatex"
+  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 2/tarea2.tex" 1746495707 13237 6593f6ba1ce589bf82ddafc798a46175 ""
   "images/logo-usm.png" 1746492627 349029 d84872a8f5e5ff506f3fe349f8e0cc0a ""
-  "tarea2.tex" 1746495619 12646 8930e9447299022e0f552221c15634df ""
+  "tarea2.tex" 1746495707 13237 6593f6ba1ce589bf82ddafc798a46175 ""
   (generated)
   "build/tarea2.aux"
   "build/tarea2.log"

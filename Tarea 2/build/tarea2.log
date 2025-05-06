@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  5 MAY 2025 21:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  5 MAY 2025 21:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -354,11 +354,11 @@ Package fancyhdr Warning: \headheight is too small (20.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-18.49326pt}.
 
 [2 <./Graficos/1.png> <./Graficos/2.png>]
-<Graficos/Radar_frec_ia_FC.png, id=29, 669.50125pt x 414.54875pt>
-File: Graficos/Radar_frec_ia_FC.png Graphic file (type png)
-<use Graficos/Radar_frec_ia_FC.png>
-Package pdftex.def Info: Graficos/Radar_frec_ia_FC.png  used on input line 108.
-(pdftex.def)             Requested size: 386.96027pt x 239.60979pt.
+<Graficos/Treemap_Uso_IA_FC.png, id=29, 796.9775pt x 532.99126pt>
+File: Graficos/Treemap_Uso_IA_FC.png Graphic file (type png)
+<use Graficos/Treemap_Uso_IA_FC.png>
+Package pdftex.def Info: Graficos/Treemap_Uso_IA_FC.png  used on input line 108.
+(pdftex.def)             Requested size: 386.96027pt x 258.7851pt.
 
 
 File: images/logo-usm.png Graphic file (type png)
@@ -379,11 +379,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 114.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 114.
-<Graficos/Treemap_Uso_IA_FC.png, id=39, 796.9775pt x 532.99126pt>
-File: Graficos/Treemap_Uso_IA_FC.png Graphic file (type png)
-<use Graficos/Treemap_Uso_IA_FC.png>
-Package pdftex.def Info: Graficos/Treemap_Uso_IA_FC.png  used on input line 123.
-(pdftex.def)             Requested size: 386.96027pt x 258.7851pt.
+<Graficos/Radar_frec_ia_FC.png, id=39, 669.50125pt x 414.54875pt>
+File: Graficos/Radar_frec_ia_FC.png Graphic file (type png)
+<use Graficos/Radar_frec_ia_FC.png>
+Package pdftex.def Info: Graficos/Radar_frec_ia_FC.png  used on input line 123.
+(pdftex.def)             Requested size: 386.96027pt x 239.60979pt.
 
 
 File: images/logo-usm.png Graphic file (type png)
@@ -397,7 +397,7 @@ Package fancyhdr Warning: \headheight is too small (20.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-18.49326pt}.
 
-[4 <./Graficos/Radar_frec_ia_FC.png>]
+[4 <./Graficos/Treemap_Uso_IA_FC.png>]
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
@@ -410,7 +410,7 @@ Package fancyhdr Warning: \headheight is too small (20.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-18.49326pt}.
 
-[5 <./Graficos/Treemap_Uso_IA_FC.png>]
+[5 <./Graficos/Radar_frec_ia_FC.png>]
 <Graficos/beeswarn.png, id=54, 570.933pt x 354.123pt>
 File: Graficos/beeswarn.png Graphic file (type png)
 <use Graficos/beeswarn.png>
@@ -439,7 +439,7 @@ Package pdftex.def Info: Graficos/spin plot.png  used on input line 173.
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 200.
+Package pdftex.def Info: images/logo-usm.png  used on input line 198.
 (pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (20.0pt): 
@@ -449,15 +449,16 @@ Package fancyhdr Warning: \headheight is too small (20.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-18.49326pt}.
 
 [7 <./Graficos/spin plot.png>]
-File: Graficos/spin plot.png Graphic file (type png)
-<use Graficos/spin plot.png>
-Package pdftex.def Info: Graficos/spin plot.png  used on input line 213.
-(pdftex.def)             Requested size: 386.96027pt x 231.08157pt.
+<Graficos/PreocupacionLaboral.jpg, id=76, 1005.7575pt x 966.61125pt>
+File: Graficos/PreocupacionLaboral.jpg Graphic file (type jpg)
+<use Graficos/PreocupacionLaboral.jpg>
+Package pdftex.def Info: Graficos/PreocupacionLaboral.jpg  used on input line 214.
+(pdftex.def)             Requested size: 386.96027pt x 371.88837pt.
 
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 221.
+Package pdftex.def Info: images/logo-usm.png  used on input line 217.
 (pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (20.0pt): 
@@ -467,20 +468,35 @@ Package fancyhdr Warning: \headheight is too small (20.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-18.49326pt}.
 
 [8]
-File: Graficos/spin plot.png Graphic file (type png)
-<use Graficos/spin plot.png>
-Package pdftex.def Info: Graficos/spin plot.png  used on input line 227.
-(pdftex.def)             Requested size: 386.96027pt x 231.08157pt.
-<Graficos/excel.png, id=84, 1059.96pt x 715.17188pt>
+<Graficos/UsoPrincipalVSPreocupacionLaboral.jpg, id=83, 1540.75626pt x 1041.8925pt>
+File: Graficos/UsoPrincipalVSPreocupacionLaboral.jpg Graphic file (type jpg)
+<use Graficos/UsoPrincipalVSPreocupacionLaboral.jpg>
+Package pdftex.def Info: Graficos/UsoPrincipalVSPreocupacionLaboral.jpg  used on input line 228.
+(pdftex.def)             Requested size: 386.96027pt x 261.66483pt.
+
+
+File: images/logo-usm.png Graphic file (type png)
+<use images/logo-usm.png>
+Package pdftex.def Info: images/logo-usm.png  used on input line 232.
+(pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 38.49326pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.49326pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-18.49326pt}.
+
+[9 <./Graficos/PreocupacionLaboral.jpg>]
+<Graficos/excel.png, id=90, 1059.96pt x 715.17188pt>
 File: Graficos/excel.png Graphic file (type png)
 <use Graficos/excel.png>
-Package pdftex.def Info: Graficos/excel.png  used on input line 247.
+Package pdftex.def Info: Graficos/excel.png  used on input line 249.
 (pdftex.def)             Requested size: 432.48051pt x 291.80373pt.
 
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 249.
+Package pdftex.def Info: images/logo-usm.png  used on input line 252.
 (pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (20.0pt): 
@@ -489,11 +505,11 @@ Package fancyhdr Warning: \headheight is too small (20.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-18.49326pt}.
 
-[9]
+[10 <./Graficos/UsoPrincipalVSPreocupacionLaboral.jpg>]
 
 File: images/logo-usm.png Graphic file (type png)
 <use images/logo-usm.png>
-Package pdftex.def Info: images/logo-usm.png  used on input line 264.
+Package pdftex.def Info: images/logo-usm.png  used on input line 266.
 (pdftex.def)             Requested size: 74.2241pt x 34.14322pt.
 
 Package fancyhdr Warning: \headheight is too small (20.0pt): 
@@ -502,7 +518,7 @@ Package fancyhdr Warning: \headheight is too small (20.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-18.49326pt}.
 
-[10 <./Graficos/excel.png>] (c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 2\build\tarea2.aux
+[11 <./Graficos/excel.png>] (c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 2\build\tarea2.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -514,17 +530,17 @@ Package rerunfilecheck Info: File `tarea2.out' has not changed.
 (rerunfilecheck)             Checksum: DBBDFADC9615BCBD8B08FF50099488C8;202.
  ) 
 Here is how much of TeX's memory you used:
- 11000 strings out of 473523
- 177302 string characters out of 5714630
- 594695 words of memory out of 5000000
- 34076 multiletter control sequences out of 15000+600000
+ 11022 strings out of 473523
+ 178044 string characters out of 5714630
+ 593695 words of memory out of 5000000
+ 34097 multiletter control sequences out of 15000+600000
  564174 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,15n,79p,556b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,15n,79p,404b,525s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 2\build\tarea2.pdf" (10 pages, 761541 bytes).
+Output written on "c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 2\build\tarea2.pdf" (11 pages, 1167832 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 59 words of extra memory for PDF output out of 10000 (max. 10000000)
 
