@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749486726.66905 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 3/tarea3.tex" "build/tarea3.pdf" "tarea3" 1749486728.37768 0
+["pdflatex"] 1749505630.26364 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 3/tarea3.tex" "build/tarea3.pdf" "tarea3" 1749505633.16573 0
   "C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744587230 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/javie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744495863 12036089 b574607adfc369167d76fffc37edb270 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -71,11 +71,11 @@
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/tarea3.aux" 1749486728 900 0d4c70a26ab90a76add7c444f8f90b32 "pdflatex"
-  "build/tarea3.out" 1749486728 202 dbbdfadc9615bcbd8b08ff50099488c8 "pdflatex"
-  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 3/tarea3.tex" 1749486725 2728 ef894f75f88afd78d17145748f69fd87 ""
+  "build/tarea3.aux" 1749505632 900 bbef68b96e3fd4e6c1654826180d2fda "pdflatex"
+  "build/tarea3.out" 1749505632 202 dbbdfadc9615bcbd8b08ff50099488c8 "pdflatex"
+  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 3/tarea3.tex" 1749505628 2668 f5148d800de8444af9b0156de7ca3b87 ""
   "images/logo-usm.png" 1746492627 349029 d84872a8f5e5ff506f3fe349f8e0cc0a ""
-  "tarea3.tex" 1749486725 2728 ef894f75f88afd78d17145748f69fd87 ""
+  "tarea3.tex" 1749505628 2668 f5148d800de8444af9b0156de7ca3b87 ""
   (generated)
   "build/tarea3.aux"
   "build/tarea3.log"
