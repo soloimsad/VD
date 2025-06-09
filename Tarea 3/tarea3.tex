@@ -50,6 +50,43 @@
     \end{minipage}
 \end{figure}
 
+\section*{Trabajo en grupo}
+
+\subsection*{Enlace al dataset}
+\url{https://cissm.umd.edu/cyber-events-database}
+
+\vspace{1em}
+\subsection*{Mapa 1: [Título del compañero 1 (Flourish o herramienta adicional)]}
+\textit{[Espacio para que tu compañer@ agregue imagen, enlace y detalles según pauta]}
+
+\subsection*{Mapa 2: Mapa de Calor de Ciberataques por País (CARTO)}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.95\textwidth]{mapa_carto.png}
+    \caption[1]{Fuente: \url{https://clausa.app.carto.com/map/f16b7877-40d4-4182-8c3e-043b5bdb2aa2}}
+\end{figure}
+
+\textbf{Tipo de mapa:} Mapa de calor (heatmap) \\
+\textbf{Ubicación en el espectro de mapas:} Cuantitativo – Distribución espacial de densidad por unidad política (país). \\
+
+\textbf{Esquemática:} \\
+\begin{itemize}
+    \item \textit{Descripción:} Visualización de la concentración de incidentes cibernéticos registrados entre 2014 y 2024 por país.
+    \item \textit{Secuencia:} Se partió desde el dataset completo, se agrupó por país y se contó la cantidad de incidentes. Se añadieron coordenadas geográficas y se cargó el resultado a CARTO como mapa de calor.
+\end{itemize}
+
+\textbf{Colores utilizados:} \\
+Se utilizó una paleta monocromática que va desde blanco a rojo oscuro. Esta elección refuerza la percepción de urgencia y riesgo en zonas con alta concentración de incidentes.
+
+\textbf{Tipografía empleada:} \\
+CARTO emplea una tipografía sans-serif clara, de alto contraste, que mantiene coherencia con el diseño minimalista de la plataforma. Esto permite que el foco esté en los datos visualizados y no en elementos distractores.
+
+
+
+\vspace{1em}
+\subsection*{Mapa 3: [Título del compañero 2 (Kepler.gl / Tableau / etc)]}
+\textit{[Espacio para que tu compañer@ agregue imagen, enlace y detalles según pauta]}
 
 
 % ===================== INTEGRANTE 1 =====================
@@ -81,9 +118,51 @@
 
 % ===================== INTEGRANTE 2 =====================
 \newpage
-\subsection*{Integrante 2: }
+\subsection*{Integrante 2: Felipe Campaña}
 
-% Repite la misma estructura
+\subsubsection*{Mapa 2: [Mapa de Calor en CARTO]}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.85\textwidth]{images/Mapa_calor_FC.png}
+    \caption[1]{Fuente: \url{https://clausa.app.carto.com/map/f16b7877-40d4-4182-8c3e-043b5bdb2aa2}}
+\end{figure}
+
+\textbf{Descripción cualitativa del dataset:} \\
+El dataset utilizado proviene de la base de datos \textit{Cyber Events Database (2014–2024)} de la Universidad de Maryland. Esta base documenta más de 14.000 eventos de ciberseguridad relevantes a nivel mundial, incluyendo país afectado, tipo de ataque, actor responsable, sector y fecha. Se procesó agrupando los datos por país víctima para contar la cantidad de incidentes por ubicación geográfica.
+
+\vspace{0.5em}
+\textbf{Objetivo de la visualización:} \\
+\begin{itemize}
+    \item \textit{¿Qué pregunta busca responder?} \\
+    ¿En qué países se han concentrado más ciberataques registrados entre 2014 y 2024?
+    
+    \item \textit{¿A qué público está dirigida?} \\
+    Principalmente a periodistas de datos, investigadores en ciberseguridad y tomadores de decisiones en políticas públicas tecnológicas.
+
+    \item \textit{¿Qué acción o decisión podría apoyar?} \\
+    Esta visualización permite identificar regiones con alta exposición a amenazas cibernéticas, ayudando a priorizar recursos en ciberdefensa, programas de concientización o cooperación internacional.
+\end{itemize}
+
+\vspace{0.5em}
+\textbf{Tipo de visualización:} \\
+Mapa de calor (\textit{Heatmap}) realizado con la plataforma CARTO. Representa la densidad de incidentes cibernéticos según país. Mientras más rojo concentrado, mayor es la cantidad de eventos registrados en esa región.
+
+\vspace{0.5em}
+\textbf{Justificación de diseño:} \\
+\begin{itemize}
+    \item \textbf{Colores:} Se utilizó una escala monocromática rojo oscuro $\rightarrow$ blanco. El rojo transmite alerta, urgencia y riesgo, reforzando el mensaje de amenaza.
+    \item \textbf{Tipografía y estilo:} CARTO aplica tipografía clara sin ruido visual. Se privilegia la lectura del mapa más que el texto.
+    \item \textbf{Geocodificación:} Se asignaron coordenadas geográficas centrales a cada país para representar los datos en el mapa.
+\end{itemize}
+
+\vspace{0.5em}
+\textbf{Conclusiones del gráfico:} \\
+\begin{itemize}
+    \item América del Norte, Europa Occidental y partes de Asia (China, Corea del Sur, India) son focos principales de ciberataques.
+    \item Hay una notable concentración en países desarrollados, lo que puede asociarse tanto a mayor exposición tecnológica como a mejor capacidad de reporte.
+    \item Regiones como África y Oceanía muestran baja densidad, aunque esto puede deberse a subregistro o menor cobertura mediática.
+    \item El mapa permite hacer inferencias sobre la correlación entre infraestructura digital y volumen de ciberincidentes.
+\end{itemize}
 
 % ===================== INTEGRANTE 3 =====================
 \newpage
