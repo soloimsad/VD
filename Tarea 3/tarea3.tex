@@ -110,8 +110,38 @@ CARTO emplea una tipografía sans-serif clara, de alto contraste, que mantiene c
 
 
 \vspace{1em}
-\subsection*{Mapa 3: [Título del compañero 2 (Kepler.gl / Tableau / etc)]}
-\textit{[Espacio para que tu compañer@ agregue imagen, enlace y detalles según pauta]}
+\subsection*{Mapa 3: Flujos de ciberataques entre países (Kepler.gl)}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.95\textwidth]{images/Arc_Layer.png}
+    \caption{Flujos de ciberataques entre países. Fuente: Elaboración propia en plataforma Kepler.gl. \url{https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/gaxz7hj5uuyfrv5h2ljph/keplergl_qn6or6.json?rlkey=75daex9obuvd2m11ey8nxoiw4&dl=0}}
+\end{figure}
+
+\textbf{Tipo de mapa:} Mapa de flujos (Arc Layer) \\
+\textbf{Ubicación en el espectro de mapas:} Exploratorio + Relacional-cuantitativo / Presentacional. \\
+
+\textbf{Esquemática:} \\
+\begin{itemize}
+    \item \textit{Descripción:} 
+        \begin{itemize}
+            \item \textit{Origen (actor): } Punto inicial del arco.
+            \item \textit{Destino (víctima): } Punto final.
+            \item \textit{Grosor : } Numero de ataques.
+            \item \textit{Color : } Distingue al país origen (paleta multicromática).
+        \end{itemize}
+    \item \textit{Secuencia:} Utilizando el dataset original se genero un dataset secundario que registra el numero de ataques registrados (actor country, victim country, attacks), Se añadieron cordenadas geograficas a cada fila de este dataset generando un dataset final el cual se subio a la plataforma \textit{Kepler.gl} para generar el Mapa de Flujos.
+\end{itemize}
+
+\textbf{Colores utilizados:} \\
+Paleta de diez matices suaves (cian, violeta, aqua, amarillo-verdoso, rosa, etc.) aplicados a los arcos; mantiene contraste sobre fondo Dark (\#111b25 aprox.) de Kepler.
+Justificación: colores diferenciados ayudan a reconocer rápidamente países origen sin recargar; fondo oscuro hace resaltar las líneas y reduce distracción.
+
+\textbf{Tipografía empleada:} \\
+En Kepler, se utiliza la fuente sans-serif por defecto (Inter/Roboto).
+
+\textbf{Objetivo del mapa:} \\
+Dirigido a analistas de ciberseguridad, periodistas de datos y responsables de política pública para detectar hubs emisores de amenazas, rutas de ataque recurrentes y posibles brechas de defensa a nivel global.
 
 % ===================== INTEGRANTE 1 =====================
 \section*{Análisis por Integrante}
@@ -221,18 +251,45 @@ Mapa de calor (\textit{Heatmap}) realizado con la plataforma CARTO. Representa l
 
 % ===================== INTEGRANTE 3 =====================
 \newpage
-\subsection*{Integrante 3: Nombre del estudiante}
+\subsection*{Integrante 1: Matías Elgueta}
 
-% Repite la misma estructura
-
-% ---------------------------------------------------------------------------------
-\section{Evidencia de encuesta aplicada}
-Aquí puedes insertar una imagen de la base de datos, resumen de resultados o archivo fuente.
+\subsection*{Mapa 3: Flujos de ciberataques entre países (Kepler.gl)}
 
 \begin{figure}[H]
     \centering
-    \caption{Captura de pantalla del archivo Excel con las respuestas de la encuesta}
+    \includegraphics[width=0.95\textwidth]{images/Arc_Layer.png}
+    \caption{Flujos de ciberataques entre países. Fuente: Elaboración propia en plataforma Kepler.gl. \url{https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/scl/fi/gaxz7hj5uuyfrv5h2ljph/keplergl_qn6or6.json?rlkey=75daex9obuvd2m11ey8nxoiw4&dl=0}}
 \end{figure}
+
+\paragraph{Descripción cualitativa del dataset:}
+
+El dataset utilizado contiene información agregada sobre ciberataques internacionales ocurridos entre 2014 y 2024. Representa relaciones entre países en función de la cantidad de ataques registrados desde un país atacante hacia uno víctima.
+Se trata de un dataset relacional y espacial, útil para identificar patrones de conectividad, flujos de agresión digital y concentraciones geográficas de actividad ofensiva en el ciberespacio.
+
+\paragraph{Objetivo de la visualización:}
+
+\begin{itemize}
+    \item \textbf{¿Qué pregunta busca responder?:} \\
+    \textit{¿Qué países atacan a cuáles?} El mapa busca revelar los principales emisores y receptores de ciberataques a nivel internacional, así como la dirección e intensidad de estos flujos.
+
+    \item \textbf{¿A qué público está dirigida?} \\
+    A analistas de ciberseguridad, periodistas de datos y tomadores de decisiones en política digital o relaciones internacionales. También es útil para el público general interesado en la dimensión geopolítica de los ciberataques.
+
+    \item \textbf{¿Qué acción o decisión podría apoyar?} \\
+    Apoya la identificación de amenazas internacionales y la priorización de estrategias defensivas. También puede orientar decisiones diplomáticas, inversiones en ciberdefensa y campañas de concientización regionalizadas según patrones observados.
+
+\paragraph{Conclusiones:}
+\begin{itemize}
+    \item \textbf{Rusia destaca como principal origen de ciberataques.}
+    Se observa una gran concentración de líneas gruesas saliendo desde su territorio, lo que indica una alta actividad ofensiva hacia múltiples regiones del mundo.
+    \item \textbf{Estados Unidos es el país más atacado.}
+    Es el punto de llegada de los arcos más gruesos del mapa, especialmente desde Rusia, lo que lo posiciona como el principal objetivo de ataques internacionales.
+    \item \textbf{Conflictos regionales como el de Rusia–Ucrania también son visibles.}
+    Se evidencian flujos visibles en ambos sentidos entre estos países, mostrando un intercambio constante de ataques, destacando la dimensión digital del conflicto geopolítico.
+    \item {Europa oriental y Asia son zonas de alta densidad de flujos.}
+    Estas regiones presentan múltiples líneas cruzadas y agrupadas, lo que sugiere que son zonas estratégicas tanto como origen como destino de ciberataques.
+
+\end{itemize}
 
 
 \textbf{Repositorio:}  
