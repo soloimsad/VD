@@ -125,10 +125,10 @@ INPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.out
 INPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.out
 INPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.out
 INPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.out
-OUTPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.pdf
 INPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.out
 INPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.out
 OUTPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.out
+OUTPUT c:\Users\javie\OneDrive\Desktop\U\VD\Tarea 3\build\tarea3.pdf
 INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
@@ -177,15 +177,26 @@ INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
-INPUT .\images\punto_cate.png
-INPUT .\images\punto_cate.png
-INPUT .\images\punto_cate.png
-INPUT .\images\punto_cate.png
-INPUT .\images\logo-usm.png
-INPUT .\images\logo-usm.png
-INPUT .\images\logo-usm.png
-INPUT .\images\logo-usm.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
 INPUT C:\Users\javie\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\punto_cate.png
+INPUT .\images\punto_cate.png
+INPUT .\images\punto_cate.png
+INPUT .\images\punto_cate.png
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
 INPUT .\images\sabotage_state.png
 INPUT .\images\sabotage_state.png
 INPUT .\images\sabotage_state.png
@@ -205,6 +216,14 @@ INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\logo-usm.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
+INPUT .\images\Arc_Layer.png
 INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png
 INPUT .\images\logo-usm.png

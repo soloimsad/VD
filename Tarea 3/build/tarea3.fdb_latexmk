@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1749510982.13715 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 3/tarea3.tex" "build/tarea3.pdf" "tarea3" 1749510983.99415 0
+["pdflatex"] 1749516538.85085 "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 3/tarea3.tex" "build/tarea3.pdf" "tarea3" 1749516543.3357 0
   "C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744587230 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/javie/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1744496471 14064 196ac4c23fef1eb1c11eeb41da862bdb ""
   "C:/Users/javie/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744495863 12036089 b574607adfc369167d76fffc37edb270 ""
@@ -76,14 +76,15 @@
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
   "C:/Users/javie/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/tarea3.aux" 1749510983 1914 266fbb5891485976c10c5446927fc262 "pdflatex"
-  "build/tarea3.out" 1749510983 202 dbbdfadc9615bcbd8b08ff50099488c8 "pdflatex"
-  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 3/tarea3.tex" 1749510970 11298 42888475ad46457a8385f8c64ba08e89 ""
+  "build/tarea3.aux" 1749516542 2808 6bd572d7fb7e2c60ae2b95e602a68878 "pdflatex"
+  "build/tarea3.out" 1749516540 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "c:/Users/javie/OneDrive/Desktop/U/VD/Tarea 3/tarea3.tex" 1749516536 15944 4bad558b7b694772aac4d3b9d5f7d5f3 ""
+  "images/Arc_Layer.png" 1749515843 445975 f735e1be5423093d63ebd87010f9e7c4 ""
   "images/Mapa_calor_FC.png" 1749510405 408697 943976c856a9cfee7623ca66f23c2c50 ""
   "images/logo-usm.png" 1746492627 349029 d84872a8f5e5ff506f3fe349f8e0cc0a ""
   "images/punto_cate.png" 1749507200 126246 038c4e559acfc457ed5fd3ab4daf56f2 ""
   "images/sabotage_state.png" 1749510125 37402 8dfcd3476e7a28508a5bbe3216798fe7 ""
-  "tarea3.tex" 1749510970 11298 42888475ad46457a8385f8c64ba08e89 ""
+  "tarea3.tex" 1749516536 15944 4bad558b7b694772aac4d3b9d5f7d5f3 ""
   (generated)
   "build/tarea3.aux"
   "build/tarea3.log"
