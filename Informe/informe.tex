@@ -1,42 +1,245 @@
-\documentclass[12pt, a4paper]{article}
-\usepackage[spanish]{babel}
+
+\documentclass[12pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
-\usepackage{geometry}
-\usepackage{fancyhdr}
 \usepackage{float}
-\usepackage{titling}
-\usepackage{hyperref}
-\usepackage{url}
-
-
-
-
-% Márgenes
-\geometry{a4paper, margin=2.5cm}
-
-% Encabezado y pie de página
-\pagestyle{fancy}
-\fancyhf{}
-\rhead{\includegraphics[height=1.2cm]{images/logo-usm.png}}
-\lhead{Grupo 19\\Visualización de Datos}
-\rfoot{Página \thepage}
-
-% Configuración del logo en portada
-\pretitle{
-  \begin{center}
-  \vspace{1cm}
-  \includegraphics[width=0.5\textwidth]{images/logo-usm.png}\\
-  \vspace{1.5cm}
-  \LARGE
-}
-\posttitle{\end{center}}
-
-% Título del informe
-\title{Informe: Tecnología en la Vida Cotidiana}
-\author{Felipe Campaña, Javier Gómez, Matias Elgueta}
-\date{\today\\[2cm]}
+\usepackage{geometry}
+\geometry{margin=1in}
+\title{Informe Visualizaciones - Tecnología}
+\author{Grupo 19}
+\date{Junio 2025}
 
 \begin{document}
 
+\maketitle
+
+\section*{Visualización 1: Porcentaje de personas que usan internet en el mundo}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/uso_internet.png}
+    \caption{Fuente: World Bank (https://data.worldbank.org/indicator/IT.NET.USER.ZS)}
+\end{figure}
+
+\subsection*{Descripción cualitativa del dataset}
+El dataset indica el porcentaje de la población que utiliza internet en cada país, recopilado por el World Bank. Se expresa como \% de individuos sobre el total de la población nacional.
+
+\subsection*{Objetivo de la visualización}
+\begin{itemize}
+    \item ¿Qué países tienen mayor y menor acceso a internet?
+    \item Público general, estudiantes, autoridades en telecomunicaciones.
+    \item Identificar brechas de conectividad global para orientar políticas públicas.
+\end{itemize}
+
+\subsection*{Tipo de visualización}
+Mapa de calor geográfico.
+
+\subsection*{Justificación de diseño visual}
+\begin{itemize}
+    \item \textbf{Marca:} Colores y formas de cada país.
+    \item \textbf{Canales:} Posición geográfica, intensidad del color.
+    \item \textbf{Lenguaje visual:} Comparativo geográfico.
+\end{itemize}
+
+\subsection*{Colores utilizados}
+Escala continua de blanco a azul oscuro. Mayor intensidad indica mayor porcentaje de usuarios.
+
+\subsection*{Tipografía empleada}
+Sans-serif simple, para favorecer legibilidad geográfica.
+
+\subsection*{Integrante responsable}
+Felipe Campaña
+\newpage
+
+\newpage
+
+\section*{Visualización 2: Popularidad de redes sociales globales}
+
+\begin{figure}[H]
+    \centering
+    \caption{Fuente: RAWGraphs – Kaggle (Social Media Usage)}
+\end{figure}
+
+\subsection*{Descripción cualitativa del dataset}
+Datos de cuota de mercado de redes sociales principales (Facebook, YouTube, TikTok, Instagram, etc.) en porcentaje global entre 2009 y 2023.
+
+\subsection*{Objetivo de la visualización}
+\begin{itemize}
+    \item ¿Qué redes sociales dominan globalmente en términos de uso?
+    \item Público general, periodistas de datos, analistas de medios.
+    \item Campañas digitales o investigaciones sobre comportamiento digital.
+\end{itemize}
+
+\subsection*{Tipo de visualización}
+Gráfico de barras radial.
+
+\subsection*{Justificación de diseño visual}
+\begin{itemize}
+    \item \textbf{Marca:} Barras dispuestas circularmente.
+    \item \textbf{Canales:} Longitud (cuota \%), ángulo (categoría), color (red).
+    \item \textbf{Lenguaje visual:} Comparativo original.
+\end{itemize}
+
+\subsection*{Colores utilizados}
+Colores asociados a marcas (azul Facebook, rojo YouTube, etc.)
+
+\subsection*{Tipografía empleada}
+Sans-serif limpia.
+
+\subsection*{Integrante responsable}
+Matias Elgueta
+\newpage
+
+\section*{Visualización 3: Principales usos de inteligencia artificial}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/treemap.png}
+    \caption{Fuente: Elaboración propia con datos de encuesta (Google Forms)}
+\end{figure}
+
+\subsection*{Descripción cualitativa del dataset}
+Encuesta aplicada a estudiantes universitarios donde se consulta para qué utilizan la IA (opciones múltiples: estudiar, programar, crear arte, etc.).
+
+\subsection*{Objetivo de la visualización}
+\begin{itemize}
+    \item ¿Cuáles son los principales usos que dan los estudiantes a la IA?
+    \item Académicos, educadores, estudiantes.
+    \item Orientar el diseño de herramientas de IA según el uso real de los usuarios.
+\end{itemize}
+
+\subsection*{Tipo de visualización}
+Gráfico de barras verticales.
+
+\subsection*{Justificación de diseño visual}
+\begin{itemize}
+    \item \textbf{Marca:} Barras verticales.
+    \item \textbf{Canales:} Longitud (valor), color por categoría.
+    \item \textbf{Lenguaje visual:} Comparativo.
+\end{itemize}
+
+\subsection*{Colores utilizados}
+Colores diferenciados por categoría (verde, azul, morado…).
+
+\subsection*{Tipografía empleada}
+Sans-serif web estándar.
+
+\subsection*{Integrante responsable}
+Javier Gómez
+\newpage
+
+
+\section*{Visualización 4: Comparación de percepciones sobre IA en educación}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/boxplot.png}
+    \caption{Fuente: Flourish – Datos de Kaggle (AI in Education Survey)}
+\end{figure}
+
+\subsection*{Descripción cualitativa del dataset}
+Encuesta internacional a estudiantes de pregrado, con variables como año académico, género, y nivel de acuerdo con afirmaciones sobre IA en educación.
+
+\subsection*{Objetivo de la visualización}
+\begin{itemize}
+    \item ¿Varían las percepciones sobre IA entre diferentes grupos de estudiantes?
+    \item Educadores, investigadores, diseñadores de políticas educativas.
+    \item Focalización de estrategias educativas en IA según grupo estudiantil.
+\end{itemize}
+
+\subsection*{Tipo de visualización}
+Gráfico de puntos conectados (dumbbell plot).
+
+\subsection*{Justificación de diseño visual}
+\begin{itemize}
+    \item \textbf{Marca:} Puntos conectados por líneas horizontales.
+    \item \textbf{Canales:} Posición (porcentaje), color (grupo).
+    \item \textbf{Lenguaje visual:} Comparativo.
+\end{itemize}
+
+\subsection*{Colores utilizados}
+Dos colores por grupo comparado (ej. azul y naranja), fondo claro.
+
+\subsection*{Tipografía empleada}
+Sans-serif neutra.
+
+\subsection*{Integrante responsable}
+Javier Gómez
+\newpage
+
+\section*{Visualización 5: Flujos de ciberataques entre países}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/flujo_ataque.png}
+    \caption{Fuente: Kepler.gl con datos del Cyber Events Database (UMD)}
+\end{figure}
+
+\subsection*{Descripción cualitativa del dataset}
+Conjunto de ataques cibernéticos internacionales registrados entre 2014 y 2024, con origen y destino geográfico.
+
+\subsection*{Objetivo de la visualización}
+\begin{itemize}
+    \item ¿Qué países son emisores o receptores frecuentes de ataques?
+    \item Especialistas en ciberseguridad, diplomacia, política tecnológica.
+    \item Toma de decisiones en defensa digital o cooperación internacional.
+\end{itemize}
+
+\subsection*{Tipo de visualización}
+Mapa de flujos con arcos.
+
+\subsection*{Justificación de diseño visual}
+\begin{itemize}
+    \item \textbf{Marca:} Arcos entre puntos geográficos.
+    \item \textbf{Canales:} Grosor (cantidad de ataques), color (país emisor).
+    \item \textbf{Lenguaje visual:} Relacional, espacial.
+\end{itemize}
+
+\subsection*{Colores utilizados}
+Paleta multicolor en fondo oscuro.
+
+\subsection*{Tipografía empleada}
+Sans-serif (Inter / Roboto).
+\subsection*{Integrante responsable}
+Matias Elgueta
+\newpage
+
+\newpage
+
+\section*{Visualización 6: Flujos de actores y motivos de ciberataques}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/SANKEY_FC.png}
+    \caption{Fuente: RAWGraphs – Cyber Events Database (UMD)}
+\end{figure}
+
+\subsection*{Descripción cualitativa del dataset}
+Datos categorizados sobre tipo de actor (criminal, estatal, hacktivista...) y su motivo principal (espionaje, financiero, sabotaje...), registrados entre 2014 y 2024.
+
+\subsection*{Objetivo de la visualización}
+\begin{itemize}
+    \item ¿Qué tipos de actores están vinculados a qué motivos en los ciberataques?
+    \item Investigadores, organismos de ciberseguridad, periodistas de datos.
+    \item Detección de patrones y amenazas prioritarias.
+\end{itemize}
+
+\subsection*{Tipo de visualización}
+Diagrama de Sankey (flujo).
+
+\subsection*{Justificación de diseño visual}
+\begin{itemize}
+    \item \textbf{Marca:} Bandas curvas.
+    \item \textbf{Canales:} Grosor (número de casos), color (tipo de actor).
+    \item \textbf{Lenguaje visual:} Relacional.
+\end{itemize}
+
+\subsection*{Colores utilizados}
+Paleta multicroma (azul, verde, rojo, etc.), fondo blanco.
+
+\subsection*{Tipografía empleada}
+Sans-serif neutra.
+
+\subsection*{Integrante responsable}
+Felipe Campaña
 \end{document}
