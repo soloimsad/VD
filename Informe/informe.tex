@@ -48,32 +48,33 @@ Felipe Campaña
 
 \newpage
 
-\section*{Visualización 2: Popularidad de redes sociales globales}
+\section*{Visualización 2: Cuota de mercado redes sociales (2024)}
 
 \begin{figure}[H]
     \centering
-    \caption{Fuente: RAWGraphs – Kaggle (Social Media Usage)}
+    \includegraphics[width=0.8\textwidth]{images/radialbar.png}
+    \caption{Fuente: Python (plotly) con datos de Kaggle (Social media popularity (2009 - 2025))}
 \end{figure}
 
 \begin{itemize}
-  \item \textbf{Visualización:} Diagrama de caja (Boxplot).
-  \item \textbf{Marca:} Comparación de percepción de utilidad de la IA por año de estudio.
-  \item \textbf{Fuente de datos:} Encuesta a estudiantes de 1° y 2° año sobre la confianza y utilidad percibida de la inteligencia artificial.
-  \item \textbf{Herramienta utilizada:} Python + librerias  \textit{seaborn}, \textit{pandas} y \textit{Matplotlib}.
+  \item \textbf{Visualización:} Gráfico radial de barras (Radial Bar Chart)
+  \item \textbf{Marca:} Participación promedio de plataformas sociales en 2024
+  \item \textbf{Fuente de datos:} Social media popularity (2009 - 2025) (Kaggle)
+  \item \textbf{Herramienta utilizada:} Python (pandas, plotly)
 \end{itemize}
 
 \subsubsection*{Canales Visuales}
 \begin{itemize}
-  \item \textbf{Color:} Diferenciación visual de grupos mediante colores (verde para 1°, naranjo para 2°)
-  \item \textbf{Posición:} Año de estudio en el eje X (1° y 2°), percepción de utilidad en el eje Y
-  \item \textbf{Área:} No aplica directamente; los elementos del boxplot tienen tamaños estándar
-  \item \textbf{Leyenda:} Mediana, cuartiles, bigotes y posibles outliers expresados gráficamente
+  \item \textbf{Color:} Canal categórico nominal que asigna un color distinto a cada plataforma social. No representa una escala cuantitativa, sino que sirve para diferenciación visual inmediata. Los colores están replicados en la leyenda junto a cada barra.
+  \item \textbf{Posición:} Radial, donde cada plataforma ocupa una circunferencia concéntrica con un espacio constante entre líneas. La distancia al centro no representa valor, solo orden descendente según cuota.
+  \item \textbf{Tamaño / Longitud::} La longitud del arco indica el porcentaje de cuota de mercado promedio. Cuotas mayores generan arcos más extensos.
+  \item \textbf{Leyenda:} No se utilizó una leyenda separada. En su lugar, cada barra incorpora directamente el nombre de la plataforma y su valor porcentual, permitiendo una lectura directa e integrada.
 \end{itemize}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/Ficha_Calor.png}
-    \caption{...}
+    \includegraphics[width=0.8\textwidth]{images/Ficha_radialbar.png}
+    \caption{Ficha Técnica Radial Bar}
 \end{figure}
 
 \subsection*{Integrante responsable}
@@ -150,7 +151,7 @@ Javier Gómez
 Javier Gómez
 \newpage
 
-\section*{Visualización 5: Flujos de ciberataques entre países}
+\section*{Visualización 5: Flujos de ciberataques entre países (Tarea 3)}
 
 \begin{figure}[H]
     \centering
@@ -159,24 +160,28 @@ Javier Gómez
 \end{figure}
 
 \begin{itemize}
-  \item \textbf{Visualización:} ...
-  \item \textbf{Marca:} ...
-  \item \textbf{Fuente de datos:} ...
-  \item \textbf{Herramienta utilizada:} ...
+  \item \textbf{Visualización:} Mapa de flujos mundial (Arc Layer)
+  \item \textbf{Marca:} Conexiones visuales de ataques desde país origen hacia país víctima (2014–2024)
+  \item \textbf{Fuente de datos:} Cyber Events Database 2014–2024 (dataset procesado para relaciones país–país)
+  \item \textbf{Herramienta utilizada:} Kepler.gl (visualización), Python (procesamiento de datos)
 \end{itemize}
 
 \subsubsection*{Canales Visuales}
 \begin{itemize}
-  \item \textbf{Color:} ...
-  \item \textbf{Posición:} ...
-  \item \textbf{Área:} ...
-  \item \textbf{Leyenda:} ...
+  \item \textbf{Color:} El color se usa como canal categórico para distinguir el país atacante.
+Cada arco toma un color distinto según su origen, permitiendo seguir visualmente las rutas desde múltiples actores simultáneamente.
+No codifica magnitud ni orden, solo categoría nominal. Es útil para agrupar visualmente flujos con el mismo origen.
+  \item \textbf{Posición:} Geográfica, basada en coordenadas reales (lat/lon) de cada país.
+Los arcos respetan las distancias y proyección global del mapa.
+  \item \textbf{Tamaño / Grosor (stroke):} Codifica la intensidad del flujo: a mayor número de ataques entre un par de países, más grueso el arco.
+Canal cuantitativo clave para identificar actores principales.
+  \item \textbf{Leyenda:} No hay leyenda visible de color, ya que los colores son nominales (solo distinguen países). El grosor se interpreta directamente por contraste visual.
 \end{itemize}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{images/Ficha_Calor.png}
-    \caption{...}
+    \includegraphics[width=0.8\textwidth]{images/Ficha_archlayer.png}
+    \caption{Ficha Técnica Arc Layer}
 \end{figure}
 
 \subsection*{Integrante responsable}
