@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  22 JUN 2025 19:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.12)  22 JUN 2025 20:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -159,67 +159,99 @@ Package pdftex.def Info: images/uso_internet.png  used on input line 20.
 [1
 
 {C:/Users/javie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/uso_internet.png>]
+<images/Ficha_Calor.png, id=12, 440.39531pt x 444.91219pt>
+File: images/Ficha_Calor.png Graphic file (type png)
+<use images/Ficha_Calor.png>
+Package pdftex.def Info: images/Ficha_Calor.png  used on input line 41.
+(pdftex.def)             Requested size: 375.80544pt x 379.67067pt.
 
-[2]
+
+[2 <./images/Ficha_Calor.png>]
+File: images/Ficha_Calor.png Graphic file (type png)
+<use images/Ficha_Calor.png>
+Package pdftex.def Info: images/Ficha_Calor.png  used on input line 75.
+(pdftex.def)             Requested size: 375.80544pt x 379.67067pt.
+
 
 [3]
-<images/treemap.png, id=18, 796.9775pt x 532.99126pt>
+
+[4]
+<images/treemap.png, id=24, 796.9775pt x 532.99126pt>
 File: images/treemap.png Graphic file (type png)
 <use images/treemap.png>
-Package pdftex.def Info: images/treemap.png  used on input line 97.
+Package pdftex.def Info: images/treemap.png  used on input line 87.
 (pdftex.def)             Requested size: 375.80544pt x 251.32733pt.
+<images/Ficha_jg2.png, id=25, 450.18187pt x 493.0922pt>
+File: images/Ficha_jg2.png Graphic file (type png)
+<use images/Ficha_jg2.png>
+Package pdftex.def Info: images/Ficha_jg2.png  used on input line 108.
+(pdftex.def)             Requested size: 375.80544pt x 411.644pt.
 
 
-[4 <./images/treemap.png>]
+[5 <./images/treemap.png>]
 
-[5]
-<images/boxplot.png, id=26, 711.1368pt x 422.0568pt>
+[6 <./images/Ficha_jg2.png>]
+<images/boxplot.png, id=34, 711.1368pt x 422.0568pt>
 File: images/boxplot.png Graphic file (type png)
 <use images/boxplot.png>
-Package pdftex.def Info: images/boxplot.png  used on input line 136.
+Package pdftex.def Info: images/boxplot.png  used on input line 122.
 (pdftex.def)             Requested size: 375.80544pt x 223.03857pt.
+<images/ficha_jg1.png, id=35, 493.0922pt x 520.94624pt>
+File: images/ficha_jg1.png Graphic file (type png)
+<use images/ficha_jg1.png>
+Package pdftex.def Info: images/ficha_jg1.png  used on input line 144.
+(pdftex.def)             Requested size: 375.80544pt x 397.05202pt.
 
 
-[6 <./images/boxplot.png>]
+[7 <./images/boxplot.png>]
 
-[7]
-<images/flujo_ataque.png, id=35, 1119.43219pt x 772.38562pt>
+[8 <./images/ficha_jg1.png>]
+<images/flujo_ataque.png, id=45, 1119.43219pt x 772.38562pt>
 File: images/flujo_ataque.png Graphic file (type png)
 <use images/flujo_ataque.png>
-Package pdftex.def Info: images/flujo_ataque.png  used on input line 174.
+Package pdftex.def Info: images/flujo_ataque.png  used on input line 157.
 (pdftex.def)             Requested size: 375.80544pt x 259.29587pt.
+File: images/Ficha_Calor.png Graphic file (type png)
+<use images/Ficha_Calor.png>
+Package pdftex.def Info: images/Ficha_Calor.png  used on input line 178.
+(pdftex.def)             Requested size: 375.80544pt x 379.67067pt.
 
 
-[8 <./images/flujo_ataque.png>]
+[9 <./images/flujo_ataque.png>]
 
-[9]
-<images/SANKEY_FC.png, id=43, 796.9775pt x 577.15625pt>
+[10]
+<images/SANKEY_FC.png, id=53, 796.9775pt x 577.15625pt>
 File: images/SANKEY_FC.png Graphic file (type png)
 <use images/SANKEY_FC.png>
-Package pdftex.def Info: images/SANKEY_FC.png  used on input line 213.
+Package pdftex.def Info: images/SANKEY_FC.png  used on input line 192.
 (pdftex.def)             Requested size: 375.80544pt x 272.15294pt.
+<images/Ficha_sankey.png, id=54, 447.17062pt x 370.38374pt>
+File: images/Ficha_sankey.png Graphic file (type png)
+<use images/Ficha_sankey.png>
+Package pdftex.def Info: images/Ficha_sankey.png  used on input line 215.
+(pdftex.def)             Requested size: 375.80544pt x 311.27846pt.
 
 
-[10 <./images/SANKEY_FC.png>]
+[11 <./images/SANKEY_FC.png>]
 
-[11] (c:\Users\javie\U\VD\Informe\build\informe.aux)
+[12 <./images/Ficha_sankey.png>] (c:\Users\javie\U\VD\Informe\build\informe.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2004 strings out of 473523
- 33524 string characters out of 5714630
+ 2035 strings out of 473523
+ 34338 string characters out of 5714630
  430034 words of memory out of 5000000
- 25254 multiletter control sequences out of 15000+600000
- 561904 words of font info for 46 fonts, out of 8000000 for 9000
+ 25284 multiletter control sequences out of 15000+600000
+ 562251 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,250b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\javie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on c:\Users\javie\U\VD\Informe\build\informe.pdf (11 pages, 672202 bytes).
+ 57i,6n,65p,239b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\javie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/javie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on c:\Users\javie\U\VD\Informe\build\informe.pdf (12 pages, 829979 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
