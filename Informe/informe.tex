@@ -1,16 +1,50 @@
 
-\documentclass[12pt]{article}
+\documentclass[12pt, a4paper]{article}
+\usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
-\usepackage{float}
 \usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{titling}
+\usepackage{hyperref}
+\usepackage{url}
+
+\geometry{a4paper, margin=2.5cm}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\includegraphics[height=1.2cm]{images/logo-usm.png}} % <-- Cambia si usas otro logo
+\lhead{Grupo 19\\ Visualización de Datos}
+\setlength{\headheight}{20pt}
+\setlength{\headsep}{1cm}
+\rfoot{Página \thepage}
+
+
 \geometry{margin=1in}
 \title{Informe Visualizaciones - Tecnología}
 \author{Grupo 19}
 \date{Junio 2025}
 
 \begin{document}
+\section{Contextualización del tema}
 
+La tecnología digital ha transformado de forma acelerada la vida cotidiana, desde el acceso a internet hasta la automatización de procesos laborales y el surgimiento de nuevas amenazas en el ciberespacio. En este contexto, la inteligencia artificial (IA) se ha posicionado como una herramienta clave tanto en el ámbito productivo como en el académico, mientras que los ciberataques se han multiplicado como una expresión del conflicto geopolítico moderno. Este proyecto busca sintetizar estos ejes —acceso digital, IA y ciberseguridad— en una narrativa visual basada en datos, orientada al público general.
+
+\section{Investigación complementaria}
+
+Para fortalecer el análisis y la veracidad de las visualizaciones realizadas, se recurrió a fuentes confiables y actualizadas. Entre ellas destacan:
+
+\begin{itemize}
+  \item \textbf{Banco Mundial (World Bank):} Indicadores globales de acceso a internet y contratación de banda ancha fija. Fuente: \url{https://data.worldbank.org}
+  \item \textbf{Universidad de Maryland - Cyber Events Database:} Base de datos de eventos cibernéticos documentados entre 2014 y 2024. Fuente: \url{https://cissm.umd.edu/projects/cyber-attacks-database}
+  \item \textbf{Kaggle - Global Tech Consumption Dataset:} Información sobre adopción de tecnologías como 5G en múltiples países. Fuente: \url{https://www.kaggle.com}
+  \item \textbf{Mendeley Data - Encuesta sobre privacidad:} Datos de percepción pública frente al uso no autorizado de datos personales. Fuente: \url{https://data.mendeley.com/datasets/2x8xnfbsfd/2}
+  \item \textbf{Encuesta propia:} Se recolectaron datos a través de Google Forms con el objetivo de conocer percepciones de estudiantes universitarios frente al uso de IA y sus posibles impactos.
+\end{itemize}
+
+
+Estas fuentes permitieron desarrollar visualizaciones que cruzan variables geográficas, temporales y perceptuales, fortaleciendo el enfoque periodístico del proyecto.
 \maketitle
 
 \section*{Visualización 1: Porcentaje de personas que usan internet en el mundo (Tarea 1)}
